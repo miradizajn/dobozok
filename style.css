@@ -1,0 +1,41 @@
+div {
+    margin: 6mm;
+    border: 5px dotted burlywood;
+}
+
+p {
+    background-color: cornsilk;
+    margin: 3mm;
+    padding-left: 6mm;
+    padding-right: 6mm;
+    text-align: justify;
+}
+
+#bal {
+    width: 70%;
+}
+
+#jobb {
+    width: 80%;
+    margin-left: 4cm;
+}
+
+.piros {
+    border-right: 3mm double darkred;
+}
+
+.kék {
+    padding-bottom: 1cm;
+    border-left: 1mm dashed blueviolet;
+    border-bottom: 2mm dashed blue;
+}
+
+#crimson {
+    font-variant: small-caps;
+    color: crimson;
+}
+
+.cambria {
+    font-family: Cambria bolder;
+    color: dodgerblue;
+}
